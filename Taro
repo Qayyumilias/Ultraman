@@ -1,3 +1,6 @@
+#####################################################STANDARD####################################################################
+
+
 KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey

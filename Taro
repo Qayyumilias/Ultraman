@@ -23,6 +23,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default.mpd
 
+#EXTINF:-1 group-title="JSTOREMY.OS" group-logo="https://i.ibb.co/tKsJDpt/IMG-6210.png" tvg-id="AstroRia.my" ch-number="104" tvg-name="Astro Ria HD" tvg-logo="https://i.ibb.co/tKsJDpt/IMG-6210.png", BUY AT SHOPEE JSTOREMY.OS & PRIMETV.OS
+http://foctv.xyz:25510/live/%40azamcekma
 
 #EXTINF:-1 group-title="MALAYSIA" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png", 105 Drama Sangat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
@@ -233,6 +235,10 @@ https://epg.112114.xyz/huya/11352973
 
 ###############################################SPORTS############################################################################################################################
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ahNrZdLUVpnLHphQbfob7g", "kid":"+E++gm0VdV75HryrZ8V9EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="123" ch-number="123" tvg-name="Awesome TV" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",123 Awesome TV 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1

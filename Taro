@@ -37,5 +37,11 @@ http://epg.112114.xyz/douyu/6140589
 #EXTINF:-1 group-title="MOVIES" tvg-id="NEW DOUYU" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",Douyu TV Movies 14
 http://epg.112114.xyz/douyu/252802
 
+#EXTINF:-1 group-title="MOVIES" tvg-id="NEW DOUYU" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",Douyu TV Movies New 1
+http://epg.112114.xyz/douyu/2793084
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="NEW DOUYU" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",Douyu TV Movies New 2
+http://epg.112114.xyz/douyu/218859
+
 
 
